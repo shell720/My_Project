@@ -1,0 +1,14 @@
+th {
+    color: white;
+    background-color: black;
+}
+#Sun {
+    color: red;
+}
+#Sat {
+    color: skyblue;
+}
+#today {
+    color: white;
+    background-color: royalblue;
+}

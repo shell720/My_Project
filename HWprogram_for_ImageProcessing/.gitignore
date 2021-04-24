@@ -1,0 +1,4 @@
+*.out
+*.vcd
+.DS_Store
+main
